@@ -1,0 +1,836 @@
+1660899634521	geckodriver	INFO	Listening on 127.0.0.1:65204
+1660899637584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileyp8w0a"
+1660899638179	Marionette	INFO	Marionette enabled
+1660899638184	Marionette	INFO	Listening on port 65218
+WebDriver BiDi listening on ws://localhost:65205
+Read port: 65218
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileyp8w0a\\search.json.mozlz4", (void 0)))
+1660899639472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:65205/devtools/browser/ac67e749-73a4-481d-aa77-aacf9b503566
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 311 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 1208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 7588 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660899649332	Marionette	INFO	Stopped listening on port 65218
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660899771561	geckodriver	INFO	Listening on 127.0.0.1:65402
+1660899774642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileiBmrUG"
+1660899775122	Marionette	INFO	Marionette enabled
+1660899775126	Marionette	INFO	Listening on port 65416
+WebDriver BiDi listening on ws://localhost:65403
+Read port: 65416
+1660899775235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileiBmrUG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65403/devtools/browser/55881fe7-b547-4819-ab91-b27e1ac5cd42
+1660899788746	Marionette	INFO	Stopped listening on port 65416
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660899890801	geckodriver	INFO	Listening on 127.0.0.1:49195
+1660899893867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileGOsj8u"
+1660899894353	Marionette	INFO	Marionette enabled
+1660899894357	Marionette	INFO	Listening on port 49209
+WebDriver BiDi listening on ws://localhost:49196
+Read port: 49209
+1660899894474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileGOsj8u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49196/devtools/browser/df5af5f0-5445-4302-a78d-daa4fcb09285
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+1660899914687	Marionette	INFO	Stopped listening on port 49209
+1660899982213	geckodriver	INFO	Listening on 127.0.0.1:49350
+1660899985266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofile6FpmLs"
+1660899985712	Marionette	INFO	Marionette enabled
+1660899985717	Marionette	INFO	Listening on port 49363
+WebDriver BiDi listening on ws://localhost:49351
+Read port: 49363
+1660899985832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofile6FpmLs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49351/devtools/browser/4b106b55-8714-438a-9ce3-7038b5e14fe9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+1660900005685	Marionette	INFO	Stopped listening on port 49363
+1660900115510	geckodriver	INFO	Listening on 127.0.0.1:49835
+1660900118566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49836" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofile4NHjrx"
+1660900119042	Marionette	INFO	Marionette enabled
+1660900119046	Marionette	INFO	Listening on port 49851
+WebDriver BiDi listening on ws://localhost:49836
+Read port: 49851
+1660900119165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofile4NHjrx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49836/devtools/browser/8bfad96a-e020-4146-89cd-33cd67a26d73
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+1660900139048	Marionette	INFO	Stopped listening on port 49851
+1660902709400	geckodriver	INFO	Listening on 127.0.0.1:52447
+1660902712498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52448" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileB4HkJj"
+1660902713169	Marionette	INFO	Marionette enabled
+1660902713174	Marionette	INFO	Listening on port 52461
+WebDriver BiDi listening on ws://localhost:52448
+Read port: 52461
+1660902713309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileB4HkJj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52448/devtools/browser/50423ceb-f50d-42dd-b06c-ed4cfc2d9761
+1660902726726	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://static.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://static.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://static.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://static.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://static.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://static.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://static.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://static.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://static.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://static.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://static.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://static.cyberguardian.tech"
+1660902766748	Marionette	INFO	Stopped listening on port 52461
+1660903216955	geckodriver	INFO	Listening on 127.0.0.1:52968
+1660903220028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilevqExcs"
+1660903220695	Marionette	INFO	Marionette enabled
+1660903220699	Marionette	INFO	Listening on port 52982
+WebDriver BiDi listening on ws://localhost:52969
+Read port: 52982
+1660903220944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilevqExcs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52969/devtools/browser/a6cfa1b3-cbdc-4afc-a980-e7a2ff55c869
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+1660903382920	Marionette	INFO	Stopped listening on port 52982
+1660911448579	geckodriver	INFO	Listening on 127.0.0.1:53046
+1660911451636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilewFhoe5"
+1660911452136	Marionette	INFO	Marionette enabled
+1660911452140	Marionette	INFO	Listening on port 53057
+Read port: 53057
+WebDriver BiDi listening on ws://localhost:53047
+1660911452269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilewFhoe5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53047/devtools/browser/4067ddea-a7c9-4f00-8a1f-afd197a2283d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+1660911472017	Marionette	INFO	Stopped listening on port 53057
+1660911490906	geckodriver	INFO	Listening on 127.0.0.1:53159
+1660911493974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilevNfxNG"
+1660911494441	Marionette	INFO	Marionette enabled
+1660911494446	Marionette	INFO	Listening on port 53173
+WebDriver BiDi listening on ws://localhost:53160
+Read port: 53173
+1660911494563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilevNfxNG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53160/devtools/browser/360d90fd-367d-488b-863f-ee88402dc8d3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+1660911513882	Marionette	INFO	Stopped listening on port 53173
+1661152186212	geckodriver	INFO	Listening on 127.0.0.1:64562
+1661152189300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileGOZzo3"
+1661152190142	Marionette	INFO	Marionette enabled
+1661152190148	Marionette	INFO	Listening on port 64577
+WebDriver BiDi listening on ws://localhost:64563
+Read port: 64577
+1661152190334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileGOZzo3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64563/devtools/browser/f721f47c-a479-48be-a9ff-eff8b553eb7d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+1661152214154	Marionette	INFO	Stopped listening on port 64577
+1661152619218	geckodriver	INFO	Listening on 127.0.0.1:65269
+1661152622307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65270" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileSdglXD"
+1661152622999	Marionette	INFO	Marionette enabled
+1661152623005	Marionette	INFO	Listening on port 65283
+WebDriver BiDi listening on ws://localhost:65270
+Read port: 65283
+1661152623140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileSdglXD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65270/devtools/browser/57b5fb33-d1b7-4bd2-a3b2-abfdb6c4e7ab
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://es-testing.cyberguardian.tech"
+1661152784150	Marionette	INFO	Stopped listening on port 65283
+1661756628354	geckodriver	INFO	Listening on 127.0.0.1:59567
+1661756631379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileKewTKw"
+1661756632796	Marionette	INFO	Marionette enabled
+1661756632804	Marionette	INFO	Listening on port 59590
+WebDriver BiDi listening on ws://localhost:59568
+Read port: 59590
+1661756633033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileKewTKw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59568/devtools/browser/b2af716b-b53f-4f90-80e6-b9ba191c5a17
+1661756650805	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+1661756684065	Marionette	INFO	Stopped listening on port 59590
+1661844048927	geckodriver	INFO	Listening on 127.0.0.1:50238
+1661844051994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileo1ORiq"
+1661844053704	Marionette	INFO	Marionette enabled
+1661844053711	Marionette	INFO	Listening on port 50249
+WebDriver BiDi listening on ws://localhost:50239
+Read port: 50249
+1661844053908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileo1ORiq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50239/devtools/browser/c00f555c-548c-4f92-ac37-c2f461800b5d
+1661844072021	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+1661844103479	Marionette	INFO	Stopped listening on port 50249
+1661931268346	geckodriver	INFO	Listening on 127.0.0.1:63265
+1661931271407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilexsZnkR"
+1661931272562	Marionette	INFO	Marionette enabled
+1661931272569	Marionette	INFO	Listening on port 63276
+WebDriver BiDi listening on ws://localhost:63266
+Read port: 63276
+1661931272776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilexsZnkR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63266/devtools/browser/e3a92ae1-37ec-4b29-965f-8db924169028
+1661931286287	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+1661931317034	Marionette	INFO	Stopped listening on port 63276
+1662053016714	geckodriver	INFO	Listening on 127.0.0.1:54588
+1662053019802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileYfOTvF"
+1662053020901	Marionette	INFO	Marionette enabled
+1662053020910	Marionette	INFO	Listening on port 54599
+Read port: 54599
+WebDriver BiDi listening on ws://localhost:54589
+1662053021110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileYfOTvF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54589/devtools/browser/53d82476-e903-4e94-b91d-b438d3da8423
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cyberguardian-es.cloudflareaccess.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cyberguardian-es.cloudflareaccess.com."
+1662053104356	Marionette	INFO	Stopped listening on port 54599
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662053115095	geckodriver	INFO	Listening on 127.0.0.1:54694
+1662053118162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileWxeVQy"
+1662053118577	Marionette	INFO	Marionette enabled
+1662053118583	Marionette	INFO	Listening on port 54704
+WebDriver BiDi listening on ws://localhost:54695
+Read port: 54704
+1662053118761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileWxeVQy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54695/devtools/browser/a5365490-6972-4d4e-83c5-742527520a7a
+1662053134609	Marionette	INFO	Stopped listening on port 54704
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663329358836	geckodriver	INFO	Listening on 127.0.0.1:58717
+1663329361842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofile521RoH"
+*** You are running in headless mode.
+1663329363917	Marionette	INFO	Marionette enabled
+1663329363924	Marionette	INFO	Listening on port 58730
+WebDriver BiDi listening on ws://localhost:58718
+Read port: 58730
+1663329364092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofile521RoH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58718/devtools/browser/b9a0730a-7a48-4b4f-9441-65d2f0845a8e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+1663329566439	Marionette	INFO	Stopped listening on port 58730
+1668084729234	geckodriver	INFO	Listening on 127.0.0.1:57752
+1668084732212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileknOdzf"
+1668084733755	Marionette	INFO	Marionette enabled
+1668084733766	Marionette	INFO	Listening on port 57766
+Read port: 57766
+WebDriver BiDi listening on ws://127.0.0.1:57753
+1668084734054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileknOdzf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57753/devtools/browser/4b2e1ba1-01f9-40b1-8425-f0ea41f72f58
+1668084798654	geckodriver	INFO	Listening on 127.0.0.1:58102
+1668084801664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilehltwQL"
+1668084802517	Marionette	INFO	Marionette enabled
+1668084802528	Marionette	INFO	Listening on port 58113
+Read port: 58113
+WebDriver BiDi listening on ws://127.0.0.1:58103
+1668084802784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilehltwQL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58103/devtools/browser/cd29d640-1dfa-4f6f-92bf-de264ee538dc
+1668084864532	Marionette	INFO	Stopped listening on port 58113
+1668085078989	geckodriver	INFO	Listening on 127.0.0.1:59103
+1668085081994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofile9yiBSj"
+1668085082642	Marionette	INFO	Marionette enabled
+1668085082653	Marionette	INFO	Listening on port 59114
+Read port: 59114
+WebDriver BiDi listening on ws://127.0.0.1:59104
+1668085082928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofile9yiBSj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59104/devtools/browser/f1b2f71f-42da-4095-8e9b-6d1ef42893b5
+1668085144834	Marionette	INFO	Stopped listening on port 59114
+1668672659111	geckodriver	INFO	Listening on 127.0.0.1:56714
+1668672662129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilegSQVUg"
+1668672663423	Marionette	INFO	Marionette enabled
+1668672663430	Marionette	INFO	Listening on port 56725
+Read port: 56725
+WebDriver BiDi listening on ws://127.0.0.1:56715
+1668672663626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilegSQVUg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56715/devtools/browser/d12c8724-1c52-4ad4-b6f2-90ba934679a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+1669591133998	geckodriver	INFO	Listening on 127.0.0.1:59852
+1669591137002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileCBr0kw"
+1669591138483	Marionette	INFO	Marionette enabled
+1669591138491	Marionette	INFO	Listening on port 59867
+Read port: 59867
+WebDriver BiDi listening on ws://127.0.0.1:59853
+1669591138704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileCBr0kw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59853/devtools/browser/11985849-6b23-4e85-bd46-b05fcce8c3e4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+1669591260267	Marionette	INFO	Stopped listening on port 59867
+1671118736640	geckodriver	INFO	Listening on 127.0.0.1:57905
+1671118739640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57906" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileNpezET"
+1671118740414	Marionette	INFO	Marionette enabled
+1671118740425	Marionette	INFO	Listening on port 57915
+Read port: 57915
+WebDriver BiDi listening on ws://127.0.0.1:57906
+1671118740721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileNpezET\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57906/devtools/browser/1a8dff22-26b6-47d3-a11e-0f900a892592
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+1671118857278	Marionette	INFO	Stopped listening on port 57915
+1671119110306	geckodriver	INFO	Listening on 127.0.0.1:58121
+1671119113311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58122" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilelMK86Z"
+1671119113700	Marionette	INFO	Marionette enabled
+1671119113709	Marionette	INFO	Listening on port 58131
+Read port: 58131
+WebDriver BiDi listening on ws://127.0.0.1:58122
+1671119113974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilelMK86Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58122/devtools/browser/a739d0fa-4222-4c64-9573-b76b71f4cc5a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+1671119204540	Marionette	INFO	Stopped listening on port 58131
+1671119475644	geckodriver	INFO	Listening on 127.0.0.1:58313
+1671119478653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileEycaXf"
+1671119479194	Marionette	INFO	Marionette enabled
+1671119479205	Marionette	INFO	Listening on port 58323
+Read port: 58323
+WebDriver BiDi listening on ws://127.0.0.1:58314
+1671119479513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileEycaXf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58314/devtools/browser/068f282b-4894-453a-9271-0e8c5a74551b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+1671119547164	Marionette	INFO	Stopped listening on port 58323
+1671119947512	geckodriver	INFO	Listening on 127.0.0.1:58485
+1671119950518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofile09Rg4m"
+1671119950895	Marionette	INFO	Marionette enabled
+1671119950902	Marionette	INFO	Listening on port 58495
+Read port: 58495
+WebDriver BiDi listening on ws://127.0.0.1:58486
+1671119951096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofile09Rg4m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58486/devtools/browser/aaf04c73-8d11-4f0d-b135-01937f82bc71
+1671119963741	Marionette	INFO	Stopped listening on port 58495
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1671121881448	geckodriver	INFO	Listening on 127.0.0.1:59848
+1671121884452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "--remote-debugging-port" "59849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilemz4Ada"
+1671121884815	Marionette	INFO	Marionette enabled
+1671121884822	Marionette	INFO	Listening on port 59859
+Read port: 59859
+WebDriver BiDi listening on ws://127.0.0.1:59849
+1671121885005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilemz4Ada\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59849/devtools/browser/c6bdc994-661f-4033-be85-60b2c08fc352
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+1671121929981	Marionette	INFO	Stopped listening on port 59859
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1674030667984	geckodriver	INFO	Listening on 127.0.0.1:53020
+1674030671040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileJ7AoLc"
+1674030672027	Marionette	INFO	Marionette enabled
+1674030672035	Marionette	INFO	Listening on port 53035
+Read port: 53035
+WebDriver BiDi listening on ws://127.0.0.1:53021
+1674030672208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileJ7AoLc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53021/devtools/browser/7afbe9dd-87af-4426-b1d6-a4a0d896eea6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+1674030822414	Marionette	INFO	Stopped listening on port 53035
+1675410917815	geckodriver	INFO	Listening on 127.0.0.1:50303
+1675410920888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50304" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilewJ8HJ4"
+1675410921799	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675410921812	Marionette	INFO	Listening on port 50313
+Read port: 50313
+WebDriver BiDi listening on ws://127.0.0.1:50304
+1675410921995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofilewJ8HJ4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50304/devtools/browser/274a3534-d103-4dc5-9b10-e338eab43c1b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://static.cyberguardian.tech."
+1675411062326	Marionette	INFO	Stopped listening on port 50313
+Dynamically enable window occlusion 1
+1675411200531	geckodriver	INFO	Listening on 127.0.0.1:50539
+1675411203597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50540" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileytnGBN"
+1675411204059	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675411204064	Marionette	INFO	Listening on port 50551
+Read port: 50551
+WebDriver BiDi listening on ws://127.0.0.1:50540
+1675411204240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofileytnGBN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50540/devtools/browser/cc970a86-d2e8-42f2-b2f0-d4e1f7bc541a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+1675411338760	Marionette	INFO	Stopped listening on port 50551
+Dynamically enable window occlusion 1
+1675412795362	geckodriver	INFO	Listening on 127.0.0.1:51417
+1675412798444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "--remote-debugging-port" "51418" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofile8r4W3Q"
+1675412798928	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675412798936	Marionette	INFO	Listening on port 51426
+Read port: 51426
+WebDriver BiDi listening on ws://127.0.0.1:51418
+1675412799103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abgro\\AppData\\Local\\Temp\\rust_mozprofile8r4W3Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51418/devtools/browser/67a09d6d-11c7-4fea-b0bd-813c42013eb0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://es-testing.cyberguardian.tech."
+1675412857045	Marionette	INFO	Stopped listening on port 51426
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
