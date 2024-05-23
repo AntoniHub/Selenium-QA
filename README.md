@@ -117,7 +117,7 @@ I'm Software QA Engineer with experience in Frontend, Backend, Continuous Integr
 &nbsp;
 &nbsp;
 <p align="center">
-¡Thanks for stopping by! 🚀
+Thanks for stopping by! 🚀
 </p>
 
 
