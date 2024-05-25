@@ -56,7 +56,7 @@ I'm Software QA Engineer with experience in Frontend, Backend, Continuous Integr
 
 - 🚀 Learning Quantum Physic & Quantum Computing
   - Exploring the Quantum Mechanics (Postulates and Theorems).
-  - Navigating through Quantum Algorithms, Qubits and Quantum Circuits.
+  - Navigating through Quantum Algorithms, Qubits and Quantum Circuits
   - Linear Algebra & Statistics.
   - I hope to have knowledge about Quantum Engineering QA to be able to optimize a process and collaborate to improve some projects on that topic at any time.
 
