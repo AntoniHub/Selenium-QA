@@ -1,4 +1,4 @@
-# Hi, I'm Antonio Rodríguez Farias! 👋
+# Hi, I'm Antonio Rodríguez Farias! 👋 
 
 I'm Software QA Engineer with experience in Frontend, Backend, Continuous Integration, Databases (SQL and NoSQL), UX/UI, Mobile, Architecture, Linux / macOS / Windows testing.
 
