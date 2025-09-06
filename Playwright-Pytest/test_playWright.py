@@ -11,7 +11,7 @@ def test_01_LogIn(page: Page):
     page.get_by_placeholder("Contraseña").click()
     page.get_by_placeholder("Contraseña").fill("T3st.4321")
     page.get_by_role("button", name="Iniciar sesión").click()
-
+ 
 
 def test_02_ReviewClient(page: Page):
     page.get_by_role("button", name="Panel").click()
